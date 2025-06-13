@@ -15,7 +15,7 @@
 </ul>
 
 <ul><h1><b>practicas</b></h1>
-<li><a href=""> Continentes </a><br></li>
+<li><a href="https://pastayqueso.github.io/continentes/"> Continentes </a><br></li>
 </ul>
 </font>
 </body>
