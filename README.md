@@ -11,7 +11,7 @@
 <li><a href="">Listas y lineas</a><br></li>
 <li><a href="">Imagenes y multimedia</a><br></li>
 <li><a href="https://pastayqueso.github.io/hipervinculos/">Hipervinculos</a><br></li>
-<li><a href="">Tablas</a><br></li>
+<li><a href="https://pastayqueso.github.io/tablas/">Tablas</a><br></li>
 </ul>
 
 <ul><h1><b>practicas</b></h1>
