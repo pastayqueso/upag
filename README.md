@@ -1,6 +1,5 @@
 <html>
 <head>
-<title> mi pagina web</title>
 <font size=7> Pagina web: Mercado Barrios Patricia Belen </font>
 </head>
 <body background="flores.jpg">
