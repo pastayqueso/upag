@@ -8,7 +8,7 @@
 <ul><h1><b>Trabajos en clase</b></h1>
 
 <li><a href="">Estructura basica y texto</a><br></li>
-<li><a href="">Listas y lineas</a><br></li>
+<li><a href="https://pastayqueso.github.io/listasylinea/">Listas y lineas</a><br></li>
 <li><a href="">Imagenes y multimedia</a><br></li>
 <li><a href="https://pastayqueso.github.io/hipervinculos/">Hipervinculos</a><br></li>
 <li><a href="https://pastayqueso.github.io/tablas/">Tablas</a><br></li>
